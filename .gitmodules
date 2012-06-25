@@ -7,3 +7,9 @@
 [submodule "vim-ruby"]
 	path = vim-ruby
 	url = git://github.com/vim-ruby/vim-ruby.git
+[submodule "DoxygenToolkit.vim"]
+	path = DoxygenToolkit.vim
+	url = git://github.com/vim-scripts/DoxygenToolkit.vim.git
+[submodule "Command-T"]
+	path = Command-T
+	url = git://github.com/wincent/Command-T.git
