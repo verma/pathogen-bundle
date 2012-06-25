@@ -1,0 +1,9 @@
+[submodule "python-mode"]
+	path = python-mode
+	url = git://github.com/klen/python-mode.git
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = git://github.com/pangloss/vim-javascript.git
+[submodule "vim-ruby"]
+	path = vim-ruby
+	url = git://github.com/vim-ruby/vim-ruby.git
