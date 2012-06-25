@@ -13,3 +13,9 @@
 [submodule "Command-T"]
 	path = Command-T
 	url = git://github.com/wincent/Command-T.git
+[submodule "vim-rails"]
+	path = vim-rails
+	url = git://github.com/tpope/vim-rails.git
+[submodule "vim-scala"]
+	path = vim-scala
+	url = git://github.com/derekwyatt/vim-scala.git
