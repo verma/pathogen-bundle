@@ -34,3 +34,6 @@
 [submodule "vim-jade"]
 	path = vim-jade
 	url = https://github.com/digitaltoad/vim-jade
+[submodule "gitignore"]
+	path = gitignore
+	url = git://github.com/vim-scripts/gitignore.git
